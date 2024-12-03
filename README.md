@@ -6,7 +6,7 @@ This repository contains comprehensive documentation on various tools and techni
 
 ## 📂 **Contents**
 
-1. **SqlMap_metalpoit.pdf**  
+1. **SqlMap_metalSploit.pdf**  
    - An overview of SqlMap, an open-source penetration testing tool for automating SQL injection and database takeover.
    - Key features, installation, and examples.
 
