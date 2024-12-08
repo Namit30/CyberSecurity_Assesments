@@ -1,4 +1,4 @@
-# Information Security Tools Documentation
+# Cyber Security Tools Documentation
 
 This repository contains comprehensive documentation on various tools and techniques used in **Information Security Management**. Each document explores features, functionalities, and use cases, making this a valuable resource for cybersecurity enthusiasts and professionals.
 
